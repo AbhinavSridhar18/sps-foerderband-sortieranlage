@@ -1,0 +1,107 @@
+Zeit,sSchritt,xBetrieb,xStoerung,xNotHaltAktiv,sStoerung,uiAnzahlMetall,uiAnzahlKunststoff,uiAnzahlGesamt,uiAnzahlNotHalt,tLetzteZykluszeit,tStillstandGesamt
+2026-11-03T13:48:40,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:41,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:42,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:43,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:44,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:45,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:46,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:47,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:48,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:49,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:50,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:51,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:52,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:53,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:54,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:55,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:56,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:57,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:58,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:48:59,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:00,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:01,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:02,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:03,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:04,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:05,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:06,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:07,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:08,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:09,Warten auf Teil,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:10,Transport,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:11,Transport,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:12,Transport,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:13,Auswerfer faehrt aus,True,False,False,,1,0,1,0,4323,0
+2026-11-03T13:49:14,Warten auf Teil,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:15,Warten auf Teil,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:16,Transport,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:17,Transport,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:18,Transport,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:19,Auswerfer faehrt aus,True,False,False,,2,0,2,0,4320,0
+2026-11-03T13:49:20,Warten auf Teil,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:21,Warten auf Teil,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:22,Transport,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:23,Transport,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:24,Transport,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:25,Auswerfer faehrt ein,True,False,False,,3,0,3,0,4320,0
+2026-11-03T13:49:26,Warten auf Teil,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:27,Warten auf Teil,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:28,Transport,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:29,Transport,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:30,Transport,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:31,Transport,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:32,Transport,True,False,False,,4,0,4,0,4320,0
+2026-11-03T13:49:33,Warten auf Teil,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:34,Transport,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:35,Transport,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:36,Transport,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:37,Transport,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:38,Transport,True,False,False,,4,1,5,0,5020,0
+2026-11-03T13:49:39,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:40,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:41,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:42,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:43,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:44,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:45,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:46,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:47,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:48,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:49,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:50,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:51,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:52,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:53,Warten auf Teil,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:54,Transport,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:55,Transport,True,False,False,,4,2,6,0,5020,0
+2026-11-03T13:49:56,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,540
+2026-11-03T13:49:57,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,1550
+2026-11-03T13:49:58,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,2564
+2026-11-03T13:49:59,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,3564
+2026-11-03T13:50:00,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,4564
+2026-11-03T13:50:01,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,5564
+2026-11-03T13:50:02,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,6572
+2026-11-03T13:50:03,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,7572
+2026-11-03T13:50:04,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,8572
+2026-11-03T13:50:05,Stoerung,False,True,True,Not-Halt betaetigt,4,2,6,1,5020,9572
+2026-11-03T13:50:06,Stoerung,False,True,False,Not-Halt betaetigt,4,2,6,1,5020,10593
+2026-11-03T13:50:07,Stoerung,False,True,False,Not-Halt betaetigt,4,2,6,1,5020,11593
+2026-11-03T13:50:08,Stoerung,False,True,False,Not-Halt betaetigt,4,2,6,1,5020,12601
+2026-11-03T13:50:09,Stoerung,False,True,False,Not-Halt betaetigt,4,2,6,1,5020,13601
+2026-11-03T13:50:10,Stoerung,False,True,False,Not-Halt betaetigt,4,2,6,1,5020,14622
+2026-11-03T13:50:11,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:12,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:13,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:14,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:15,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:16,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:17,Bereit,False,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:18,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:19,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:20,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:21,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:22,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:23,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:24,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303
+2026-11-03T13:50:25,Warten auf Teil,True,False,False,,4,2,6,1,5020,15303

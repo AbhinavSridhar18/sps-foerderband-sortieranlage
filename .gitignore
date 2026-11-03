@@ -1,0 +1,25 @@
+# CODESYS temporäre / benutzerspezifische Dateien
+*.opt
+*.~u
+*.bootinfo
+*.bootinfo_guid
+*.compileinfo
+*.precompilecache
+*.project.bak
+*.backup
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logdaten (Beispiel-CSV wird gezielt eingecheckt)
+python/logs/*.csv
+!python/logs/beispiel_log.csv
+
+# macOS
+.DS_Store
+
+# OPC-UA-Client-Zertifikat und privater Schlüssel (nie veröffentlichen)
+python/certs/
