@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# IEC 61131-3 Structured Text: GitHub Linguist kennt die Sprache nicht und hält .st fälschlich für Smalltalk
+*.st linguist-detectable=false
+*.project binary
