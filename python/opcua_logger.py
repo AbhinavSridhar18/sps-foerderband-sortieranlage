@@ -71,12 +71,21 @@ async def richte_verschluesselung_ein(client):
         },
     )
     client.application_uri = APP_URI
-    await client.set_security(
-        SecurityPolicyBasic256Sha256,
-        certificate=str(zertifikat),
-        private_key=str(schluessel),
-        mode=ua.MessageSecurityMode.SignAndEncrypt,
-    )
+    try:
+        await client.set_security(
+            SecurityPolicyBasic256Sha256,
+            certificate=str(zertifikat),
+            private_key=str(schluessel),
+            mode=ua.MessageSecurityMode.SignAndEncrypt,
+        )
+    except ua.UaError:
+        print("Der Server bietet keinen verschluesselten Endpunkt (Basic256Sha256, SignAndEncrypt) an.")
+        print("Angebotene Endpunkte:")
+        for endpunkt in await client.connect_and_get_server_endpoints():
+            print("  Sicherheit:", endpunkt.SecurityPolicyUri.split("#")[-1],
+                  "| Modus:", endpunkt.SecurityMode.name)
+        print("Abhilfe: in CODESYS ein Serverzertifikat fuer den OPC-UA-Server erzeugen (Security Screen).")
+        raise SystemExit(1)
 
 
 async def finde_knoten(start, name, tiefe=0, max_tiefe=10):
